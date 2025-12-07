@@ -12,5 +12,10 @@
   "type": "commonjs",
   "devDependencies": {
     "tailwindcss": "^4.1.17"
+  },
+  "dependencies": {
+    "next": "^16.0.7",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1"
   }
 }
